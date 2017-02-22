@@ -1,5 +1,5 @@
 # Redis Implementation
-
+https://dzone.com/articles/enabling-caching-in-mongodb-database-with-redis-us
 # How to start in windows
 	One click Redis install as a Windows service:
 	https://github.com/rgl/redis/downloads
